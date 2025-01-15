@@ -1,0 +1,11 @@
+title: realoksi
+email: realoksi@dhcpd.jp
+description: >-
+  ...
+baseurl: ""
+url: "http://blog.dhcpd.jp/"
+github_username:  realoksi
+
+theme: minima
+plugins:
+  - jekyll-feed
