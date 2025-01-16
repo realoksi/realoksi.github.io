@@ -1,4 +1,4 @@
-title: realoksi
+title: dhcpd.jp
 email: realoksi@dhcpd.jp
 description: >-
   ...
@@ -6,6 +6,6 @@ baseurl: ""
 url: "http://blog.dhcpd.jp/"
 github_username:  realoksi
 
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
